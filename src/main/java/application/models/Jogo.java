@@ -50,8 +50,8 @@ public class Jogo {
     public void setGenero(Genero genero) {
         this.genero = genero;
     }
-    pulic Set<Plataforma> getPlataformas() {
-        retur plataformas;
+    public Set<Plataforma> getPlataformas() {
+        return plataformas;
     }
     public void setPlaformas(Set<Plataforma> plataformas) {
         this.plataformas = plataformas;

@@ -2,8 +2,8 @@ package application.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 
-import application.models.Genero;
+import application.models.Plataforma;
 
-public interface FeneroRepository extends CrudRepository<Plataforma, Integer>{
+public interface PlataformaRepository extends CrudRepository<Plataforma, Integer>{
     
 }
