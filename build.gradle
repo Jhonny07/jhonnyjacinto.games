@@ -1,7 +1,7 @@
 buildscript{
     repositories{
-    mavemCentral()
-}
+       mavemCentral()
+    }
 
 dependencies{
     classpath("org.springframework.boot:spring-boot-gradle-plugin:2.1.4.REALESE")
