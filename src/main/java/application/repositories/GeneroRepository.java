@@ -4,6 +4,6 @@ import org.springframework.data.repository.CrudRepository;
 
 import application.models.Genero;
 
-public interface FeneroRepository extends CrudRepository<Genero, Integer>{
+public interface GeneroRepository extends CrudRepository<Genero, Integer>{
     
 }
